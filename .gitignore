@@ -2,3 +2,5 @@
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+glove.6B.100d.txt
+training_cleaned.csv
